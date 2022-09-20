@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <b>A</b>lgorithms and <b>D</b>ata <b>S</b>structures. 
-description: CS311 • Fall 2021 • National School of Applied Sciences
+description: CS311 • Fall 2022 • National School of Applied Sciences
 logo: ensas.png
 news: true
 ---

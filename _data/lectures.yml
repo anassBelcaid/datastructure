@@ -1,4 +1,4 @@
-- date: M 10/04
+- date: M 09/26
   lecturer: 
   title: > 
     <strong>Course Overview</strong>
@@ -6,17 +6,17 @@
   # notes: https://anassbelcaid.github.io/CS311/overview/
   notes : https://anassbelcaid.github.io/CS311/overview/
   readings:
-    - <a href="https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c/1898935-initiez-vous-a-qt"> Open classroom notes</a>
-    - <a href="https://doc.qt.io/qt-5/gettingstarted.html"> Getting started with Qt </a>
-    - <a href="https://zetcode.com/gui/qt5/strings/"> ZetCode String tutorial </a>
-    - <a href="https://zetcode.com/gui/qt5/containers/"> ZetCode container tutorial </a>
+    - <a href="/qtcreator/"> Qt Creator</a>
+    # - <a href="https://doc.qt.io/qt-5/gettingstarted.html"> Getting started with Qt </a>
+    # - <a href="https://zetcode.com/gui/qt5/strings/"> ZetCode String tutorial </a>
+    # - <a href="https://zetcode.com/gui/qt5/containers/"> ZetCode container tutorial </a>
   topics:
-    - Qt Library
-    - Containers
-    - Qmake
+    - Qt Creator
+    - C++ Basics
+    - CMake
   homework:
     <a href="https://anassbelcaid.github.io/CS311/feetWet/"> Feet Wet </a>
-
+-
 # - date: M 10/11
 #   lecturer:
 #   title: >

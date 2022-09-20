@@ -1,29 +1,17 @@
 ---
 layout: post
-date: 2021-10-19
-inline: false
-title: First homework Inheritance
+date: 2022-09-19
+inline: true
+title: Starting Date
 ---
 
 
-The first homework [hsla Image]({{ site.url }}{{ site.baseurl }}/hslaimages/) on inheritance is out.
 
-> The deadline of this homework is Sunday 23/10/2021 at 20:00. 
+The first lecture will start the **26/09/2022**. 
 
-You should write a **report** explaining all the steps to solve the problem.
+We will tackle the basic **C++** syntax and some logistics.
 
-The following parts are mandatory:
-
-1. Description of each question.
-2. Code for the missing classes.
-3. A picture showing the effect of the written class on a **custom** image.
-
-
-The following aspects could enhance your report:
-
-- Try avoiding taking **snapshot** as images!!
-- Write an introduction explaining an overview of your report.
-- Make list of figure **index** referring to the page of each figure.
-
-> Happy coding!
-
+> You could check the section on **Qt Creator** and **System setup** to prepare
+the lecture. This is highly recommended as you could follow **step by step** the
+content of the lecture.
+ 
