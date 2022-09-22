@@ -55,7 +55,7 @@ Launch you installation and be careful about the following points:
 
 
 This step is **optional** but could be careful for some projects with some
-graphics. We will install the C++ *Stanford** library.
+graphics. We will install the C++ **Stanford** library.
 
 - Download the declarations of the library  <a href="{{ site.url }}{{site.baseurl}}/Qt/CS106.zip"> CS106.zip</a>
 

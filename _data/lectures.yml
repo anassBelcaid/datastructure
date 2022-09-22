@@ -4,7 +4,7 @@
     <strong>Course Overview</strong>
   slides: 
   # notes: https://anassbelcaid.github.io/CS311/overview/
-  notes : https://anassbelcaid.github.io/CS311/overview/
+  notes : /overview/
   readings:
     - <a href="/qtcreator/"> Qt Creator</a>
     # - <a href="https://doc.qt.io/qt-5/gettingstarted.html"> Getting started with Qt </a>
