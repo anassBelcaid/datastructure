@@ -6,4 +6,5 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'jekyll-toc'
+    gem 'jekyll-diagrams'
 end

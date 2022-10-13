@@ -74,6 +74,7 @@ exclude: [vendor]
 plugins:
     - jekyll-email-protect
     - jekyll-paginate
+    - jekyll-diagrams   
     - jemoji
 
 # -----------------------------------------------------------------------------

@@ -26,6 +26,14 @@ permalink: /overview/
 
 
 
+{% mermaid %}
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+{% endmermaid %}
+
 ## [**Objectives**](#objectifs)
 <a name='objectifs'></a>
 

@@ -116,6 +116,8 @@ GEM
       rouge (>= 2.0, < 4.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
+    jekyll-diagrams (0.10.0)
+      jekyll (>= 3.8, < 5.0)
     jekyll-email-protect (1.1.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
@@ -264,6 +266,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-diagrams
   jekyll-email-protect
   jekyll-paginate
   jekyll-toc
